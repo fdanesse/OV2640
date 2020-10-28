@@ -1,0 +1,6 @@
+https://www.openhacks.com/page/productos/id/2162/title/UCU3359#.X5iMznUzaEA
+
+https://circuitdigest.com/microcontroller-projects/how-to-use-ov7670-camera-module-with-arduino
+https://usermanual.wiki/Document/OV7670connectioninstructions.1111528934/html
+https://www.hackster.io/techmirtz/visual-capturing-with-ov7670-on-arduino-069ebb
+https://medium.com/@mudassar.tamboli/esp32-ov7670-websocket-video-camera-26c35aedcc64
